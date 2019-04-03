@@ -189,5 +189,3 @@ let blockchain = new Blockchain();
   }, 100);
 })(10);
 
-//validate chain
-setTimeout(() => blockchain.validateChain(), 5000);
